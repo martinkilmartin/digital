@@ -1,5 +1,5 @@
 module.exports = {
-  title: "Omnify.Digital",
+  title: "Omnify Digital",
   tagline:
     "Modern wWebsites and Apps that deliver better performance, today, and into the future.",
   url: "https://omnify.digital",
@@ -9,9 +9,9 @@ module.exports = {
   projectName: "digital", // Usually your repo name.
   themeConfig: {
     navbar: {
-      title: "Omnify.Digital",
+      title: "Omnify Digital",
       logo: {
-        alt: "Omnify.Digital",
+        alt: "Omnify Digital",
         src: "img/logo.svg",
       },
       links: [
