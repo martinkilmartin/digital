@@ -1,0 +1,62 @@
+<svg id="Layer_2" enable-background="new 0 0 512 512" height="512" viewBox="0 0 512 512" width="512"
+    xmlns="http://www.w3.org/2000/svg">
+    <g>
+        <g>
+            <path d="m10 10h180v180h-180z" fill="#ffe352"/>
+        </g>
+        <g>
+            <g>
+                <path d="m40 45h120v90h-120z" fill="#466089"/>
+            </g>
+            <g>
+                <path d="m65 40h70v100h-70z" fill="#80d6fb" transform="matrix(0 1 -1 0 190 -10)"/>
+            </g>
+            <g>
+                <path d="m30 135h140v20h-140z" fill="#6e83b7"/>
+            </g>
+        </g>
+        <g>
+            <path d="m322 10h180v180h-180z" fill="#ffb0aa"/>
+        </g>
+        <g>
+            <g>
+                <path d="m377 150v-100c0-2.761 2.239-5 5-5h60c2.761 0 5 2.239 5 5v100c0 2.761-2.239 5-5 5h-60c-2.761 0-5-2.239-5-5z" fill="#6e83b7"/>
+            </g>
+            <g>
+                <path d="m372 70h80v50h-80z" fill="#80d6fb" transform="matrix(0 1 -1 0 507 -317)"/>
+            </g>
+        </g>
+        <g>
+            <path d="m322 322h180v180h-180z" fill="#80d6fb"/>
+        </g>
+        <g>
+            <path d="m418.492 380.892 14.1 14.1-37.6 37.6-14.1-14.1-28.2 28.2 14.1 14.1c10.383 10.383 27.217 10.383 37.6 0l56.4-56.4c10.383-10.383 10.383-27.217 0-37.6l-14.1-14.1z" fill="#6e83b7"/>
+        </g>
+        <g>
+            <path d="m10 322h180v180h-180z" fill="#98ca69"/>
+        </g>
+        <g>
+            <path d="m65 377h70v100h-70z" fill="#edeff1" transform="matrix(0 1 -1 0 527 327)"/>
+        </g>
+        <g>
+            <path d="m46 416h60v32h-60z" fill="#80d6fb" transform="matrix(0 1 -1 0 508 356)"/>
+        </g>
+        <g>
+            <path d="m105 397h30v40h-30z" fill="#80d6fb" transform="matrix(0 1 -1 0 537 297)"/>
+        </g>
+        <g>
+            <path d="m40 392 20-40h80l20 40z" fill="#6e83b7"/>
+        </g>
+        <g>
+            <circle cx="256" cy="256" fill="#edeff1" r="120"/>
+        </g>
+        <g>
+            <g>
+                <circle cx="256" cy="221" fill="#6e83b7" r="35"/>
+            </g>
+            <g>
+                <path d="m186 326c0-38.66 31.34-70 70-70s70 31.34 70 70z" fill="#6e83b7"/>
+            </g>
+        </g>
+    </g>
+</svg>

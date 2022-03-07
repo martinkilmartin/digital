@@ -1,7 +1,7 @@
 module.exports = {
   title: "Omnify Digital",
   tagline:
-    "Modern wWebsites and Apps that deliver better performance, today, and into the future.",
+    "Modern Websites and Apps that deliver better performance, today, and into the future.",
   url: "https://omnify.digital",
   baseUrl: "/",
   favicon: "img/favicon.ico",
