@@ -57,9 +57,9 @@ function Home() {
                 "button button--outline button--secondary button--lg",
                 styles.getStarted
               )}
-              to={useBaseUrl("docs/doc1")}
+              to={"https://pagespeed.web.dev/report?url=https%3A%2F%2Fomnify.digital%2F"}
             >
-              Get Started
+              Test Us 🏹
             </Link>
           </div>
         </div>
